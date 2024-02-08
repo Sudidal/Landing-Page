@@ -34,6 +34,10 @@
 {
     font-size: 60px;
 }
+.main #fastspan
+{
+    display: block;
+}
 .main p
 {
     font-size: 20px;
